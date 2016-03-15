@@ -28,8 +28,8 @@ and functionality.
 + GCC = 4.7.2 (Linux only)
 + MS Visual Studio = 12 (2013) (Windows only)
 
-## Authors &amp; Contributors
-+ Overhack
+## Author :
++ Overhack . Skype : overhack123
 
 ## Copyright
 License: GPL 2.0
