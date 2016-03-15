@@ -32,4 +32,4 @@ and functionality.
 + Overhack
 
 ## Copyright
-License: GPL 3.0
+License: GPL 2.0
